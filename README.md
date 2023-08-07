@@ -8,7 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 **NOTE #3:** When I installed everything originally it worked, but when I tested later I ran into a dependency conflict between Typescript and CRA.  If you run into this please use `--force` on your `npm install`; the two packages work fine together when installed this way.
 
-The instructions that follow are the generic CRA instructions.  Please remember to run  "npm i" first!
+The instructions that follow are the generic CRA instructions.
 
 ## Available Scripts
 
