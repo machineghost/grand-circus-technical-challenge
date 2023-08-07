@@ -4,7 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 **NOTE:** Normally I would start with a more full-featured framework, like Next.js, but since none were mentioned in the instructions I chose to keep this project "vanilla" and use CRA.
 
-**NOTE #2** Please provide an API key via an `API_KEY` environmental variable.  For example, for a key of "foo", please use `API_KEY=foo npm start`.
+**NOTE #2:** Please provide an API key via an `API_KEY` environmental variable.  For example, for a key of "foo", please use `API_KEY=foo npm start`.
+
+**NOTE #3:** When I installed everything originally it worked, but when I tested later I ran into a dependency conflict between Typescript and CRA.  If you run into this please use `--force` on your `npm install`; the two packages work fine together when installed this way.
 
 The instructions that follow are the generic CRA instructions.  Please remember to run  "npm i" first!
 
