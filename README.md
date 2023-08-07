@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Grand Circus Technical Challenge
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+**NOTE:** Normally I would start with a more full-featured framework, like Next.js, but since none were mentioned in the instructions I chose to keep this project "vanilla" and use CRA.
+
+The instructions that follow are the generic CRA instructions.  Please remember to run  "npm i" first!
 
 ## Available Scripts
 
