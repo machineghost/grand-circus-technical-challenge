@@ -1,0 +1,21 @@
+form {
+  box-shadow: 2px 4px 8px #888;
+  display: block;
+  margin-top: 30px;
+  max-width: 130px;
+  padding: 20px;
+}
+form h3 {
+  margin: 0;
+}
+form button,
+form input {
+  border: 1px solid #eee;
+}
+form button {
+  background-color: white;
+  width: 100%;
+}
+form input {
+  width: 121px;
+}
